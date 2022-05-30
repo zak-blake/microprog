@@ -1,2 +1,2 @@
-# microprog
+# Microprog
 A programmable microservice
